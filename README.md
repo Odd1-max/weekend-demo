@@ -4,13 +4,19 @@
 
 # Structured AI Workflow — Demo Output
 > Demonstrates structured AI output using a lightweight workflow
+> *Demo outputs generated using a clever lightweight AI workflow — full system protected.*
+---
 
 ## Problem
 Modern workflows struggle to generate structured outputs from AI systems.  
 This demo shows a practical approach to automated output generation without expensive tools.
+---
 
 ## Solution
 This workflow produces structured outputs using a lightweight script-based system.  
 It demonstrates functionality while keeping the core logic protected.
+---
 
 ## Example Output
+---
+*Full system demonstration coming in competitions — stay tuned!*
