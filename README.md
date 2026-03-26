@@ -1,7 +1,16 @@
-# Demo Workflow Output
+![GitHub Repo stars](https://img.shields.io/github/stars/ODD1/ai-workflow-demo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ODD1/ai-workflow-demo?style=social)
+![GitHub issues](https://img.shields.io/github/issues/ODD1/ai-workflow-demo)
 
-This repository contains a sample output generated from my original AI workflow prototype.
+# Structured AI Workflow — Demo Output
+> Demonstrates structured AI output using a lightweight workflow
 
-The file included demonstrates the structured output produced by the system and is provided as supporting material for competition submissions.
+## Problem
+Modern workflows struggle to generate structured outputs from AI systems.  
+This demo shows a practical approach to automated output generation without expensive tools.
 
-Generated and published by the author as part of an AI innovation demonstration.
+## Solution
+This workflow produces structured outputs using a lightweight script-based system.  
+It demonstrates functionality while keeping the core logic protected.
+
+## Example Output
