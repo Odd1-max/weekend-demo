@@ -1,6 +1,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/ODD1/ai-workflow-demo?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/ODD1/ai-workflow-demo?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/ODD1/ai-workflow-demo)
+---
 
 # Structured AI Workflow — Demo Output
 > Demonstrates structured AI output using a lightweight workflow
